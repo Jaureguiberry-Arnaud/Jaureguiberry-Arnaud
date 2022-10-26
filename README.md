@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaureguiberry-Arnaud
-- 👀 I’m interested in graphics, ui/ux fullstack development
+- 👀 I’m interested in graphics, ui/ux, fullstack development
 - 🌱 I’m currently learning typescript and threejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
